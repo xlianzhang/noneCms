@@ -1,0 +1,12 @@
+admin11
+http://192.168.3.139/noneCms/public/index.php/admin/login/index.html
+
+http://192.168.3.139/noneCms/public/
+
+
+PHP手册
+
+https://www.kancloud.cn/manual/thinkphp5/118003
+
+快速入门
+https://www.kancloud.cn/thinkphp/thinkphp5_quickstart/145249
