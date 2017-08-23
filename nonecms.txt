@@ -1,4 +1,4 @@
-﻿admin11
+admin11
 http://192.168.3.139/noneCms/public/index.php/admin/login/index.html
 
 http://192.168.3.139/noneCms/public/
