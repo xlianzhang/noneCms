@@ -1,12 +1,14 @@
-admin11
+ï»¿admin11
 http://192.168.3.139/noneCms/public/index.php/admin/login/index.html
 
 http://192.168.3.139/noneCms/public/
 
 
-PHPÊÖ²á
+PHPæ‰‹å†Œ
 
 https://www.kancloud.cn/manual/thinkphp5/118003
 
-¿ìËÙÈëÃÅ
+å¿«é€Ÿå…¥é—¨
 https://www.kancloud.cn/thinkphp/thinkphp5_quickstart/145249
+
+ok
